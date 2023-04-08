@@ -20,7 +20,7 @@ $ ssh cs15lsp23##@ieng6.ucsd.edu
 
 ![Image](remoteaccess.png)
 
-**Step 3: Commands**
+**Step 4: Commands**
 - Here are some commands you can try running
 ```
 cd ~
