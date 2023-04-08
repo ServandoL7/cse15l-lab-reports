@@ -1,6 +1,6 @@
 # Lab Report 1
 **Step 1: Gathering account info**
-- After you are sorted into your groups you will look for your course specific account using this link: [Link](https://sdacs.ucsd.edu/~icc/index.php)
+- After you are sorted into your groups and finish the question of the day, you will look for your course specific account using this link: [Link](https://sdacs.ucsd.edu/~icc/index.php)
 - Instructions with further steps can be found here: [Link](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view)
 
 **Step 2: Installing VS Code**
