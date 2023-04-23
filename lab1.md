@@ -35,3 +35,5 @@ cat /home/linux/ieng6/cs15lsp23/public/hello.txt
 - If ran succesfully it should look like the image below
 
 ![Image](commands.png)
+- The cd command is used to change directories. By adding a ~ the cd will change to the home directory.
+- The ls command is used to print a list of all files and folders. "lat" is just the path that it is printing the list for.
