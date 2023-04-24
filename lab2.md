@@ -10,7 +10,7 @@ Fill in code
 ```
 Fill in code
 ```
--an image of what the error looked like.
+- an image of what the error looked like.
 - Reson for the bug here.
 - The fixed code:
 ```
