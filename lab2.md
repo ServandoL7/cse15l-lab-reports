@@ -1,5 +1,11 @@
 # Lab Report 2
 **Part 1: String Server**
+- Code:
+![Image]()
+- Adding Hello:
+![Image]()
+- Adding How are you:
+![Image]()
 
 **Part 2: Lab 3 Bug**
 - When testing the ReversedInPlace method originally with the test below it ran perfectly fine.
