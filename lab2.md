@@ -1,11 +1,16 @@
 # Lab Report 2
 **Part 1: String Server**
 - Code:
-![Image]()
+
+![Image](codess.png)
+
 - Adding Hello:
-![Image]()
+
+![Image](addhello.png)
+
 - Adding How are you:
-![Image]()
+
+![Image](addhowareyou.png)
 
 **Part 2: Lab 3 Bug**
 - When testing the ReversedInPlace method originally with the test below it ran perfectly fine.
