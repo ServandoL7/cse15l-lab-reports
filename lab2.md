@@ -1,16 +1,29 @@
 # Lab Report 2
 **Part 1: String Server**
-- Code:
+
+Code:
 
 ![Image](codess.png)
 
-- Adding Hello:
+Adding Hello:
 
 ![Image](addhello.png)
 
-- Adding How are you:
+- The StringServer.java and Server.java are first called to boot up the server.
+- Then the String Server class runs creating the port and running through the Handler class.
+- The handle request method is what makes it possible to print hello with the url.
+- The only thing relavent for running is the phrase that comes after the "/" becuase it runs through the code and prints out what is after the "=".
+- The string that is printed gets changed because it goes from being "" to an actual string with the contents after the "=".
+- The url is changed by adding "/add-message?s=Hello" at the end
+
+Adding How are you:
 
 ![Image](addhowareyou.png)
+
+- For the second instance it is not much different same steps to initialize the server.
+- Then the same two classes run however this time you are adding a different phrase.
+- The hello was already added so it remains on the server so when you add how are you it runs through the code and skips a line to then print out after hello.
+- The URL is changed from adding hello to adding how are you with "/add-message?s=How are you".
 
 **Part 2: Lab 3 Bug**
 - When testing the ReversedInPlace method originally with the test below it ran perfectly fine.
