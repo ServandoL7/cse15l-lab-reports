@@ -44,7 +44,8 @@ Adding How are you:
     assertArrayEquals(new int[]{ 6, 4, 2 }, input);
   }
 ```
-- an image of what the error looked like.
+What the error looks like:
+![Image](JUnitOutput.png)
 - Bug: The loop broke halfway through the run probably as a result of the value of i in the 3rd loop. This is because the value at the beginning was changed first so when the value at the end is changed with the one in the beginning it already is 6. The issue was the code was replacing the front of the array without swapping the end so what was originally changed in the front remained the same in the end. By changing the loop to half the arr.length the code was able to properly loop.
 
 - The Original code:
