@@ -4,7 +4,7 @@
 ### Step 4: Log into ieng6
 
 - This task is the simplest and easiest to complete
-- From the local terminal the follwing keys were pressed:
+- From the local terminal the following keys were pressed:
 
 ```
 <up> <enter>
@@ -17,7 +17,7 @@
 ### Step 5: Clone your fork of the repository from your Github account
 
 - Once logged in the next step was cloning the forked respository
-- From the ssh terminal the follwing keys were pressed:
+- From the ssh terminal the following keys were pressed:
 
 ```
 <up> <up> <up> <up> <up> <up> <up> <up> <up> <up> <up> <up> <enter>
@@ -30,7 +30,7 @@
 ### Step 6: Run the tests, demonstrating that they fail
 
 - Once the clone was complete I was able to run the test
-- From the ssh terminal the follwing keys were pressed:
+- From the ssh terminal the following keys were pressed:
 
 ```
 cd lab7 <enter>
@@ -44,14 +44,14 @@ cd lab7 <enter>
 ### Step 7: Edit the code file to fix the failing test
 
 - The test failed so changes needed to be made
-- From the ssh terminal the follwing keys were pressed:
+- From the ssh terminal the following keys were pressed:
 
 ```
 <up> <up> <up> <up> <up> <up> <up> <up> <up> <up> <up> <up> <enter>
 ```
 
 - The command ran was: ```Vim ListExamples.java```
-- In vim the follong keys were pressed to make the changes
+- In vim the following keys were pressed to make the changes
 
 ```
 /1 <enter>
@@ -68,7 +68,7 @@ cd lab7 <enter>
 ### Step 8: Run the tests, demonstrating that they now succeed
 
 - ```:wq``` exits vim and from here we could test if the changes worked
-- From the ssh terminal the follwing keys were pressed:
+- From the ssh terminal the following keys were pressed:
 
 ```
 <up> <up> <enter>
@@ -81,7 +81,7 @@ cd lab7 <enter>
 ### Step 9: Commit and push the resulting change to your Github account
 
 - The tests passed so the last step was commiting
-- From the ssh terminal the follwing keys were pressed:
+- From the ssh terminal the following keys were pressed:
 
 ```
 <up> <up> <up> <up> <up> <up> <up> <up> <up> <up> <up> <up> <enter>
