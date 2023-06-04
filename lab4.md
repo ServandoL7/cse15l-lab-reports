@@ -92,6 +92,8 @@ cd lab7 <enter>
 
 ![Image](commitchanges.png)
 
+-The last command ran was: ```git push --all```
+![Image](git push.png)
 ### Key Takeaway
 
 - Definitely could have been completed with way lest <up> in each step if there wasn't many "ls" ran in the previous run taking spaces in the history.
