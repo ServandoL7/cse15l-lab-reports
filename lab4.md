@@ -80,7 +80,7 @@ cd lab7 <enter>
 
 ### Step 9: Commit and push the resulting change to your Github account
 
-- The tests passed so the last step was commiting
+- The tests passed so the last step was commiting the file with a comment and pushing it.
 - From the ssh terminal the following keys were pressed:
 
 ```
@@ -93,7 +93,7 @@ cd lab7 <enter>
 ![Image](commitchanges.png)
 
 -The last command ran was: ```git push --all```
-![Image](git push.png)
+![Image](gitpush.png)
 ### Key Takeaway
 
 - Definitely could have been completed with way lest <up> in each step if there wasn't many "ls" ran in the previous run taking spaces in the history.
